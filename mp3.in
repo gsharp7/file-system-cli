@@ -1,0 +1,81 @@
+ls
+mkdir
+mkdir cmsc
+ls
+mkdir sp
+mkdir movies
+ls
+mkdir sp
+mkdir cmsc/cmsc11
+ls
+mkdir cmsc/cmsc142
+ls
+cd cmsc11
+cd cmsc
+ls
+mkdir ../movies/romcom
+ls
+cd ../movies
+ls
+cd ..
+cd cmsc/cmsc142
+ls
+cd ../../movies/horror
+ls
+cd ../../movies/romcom
+ls
+cd ..
+cd ..
+cd cmsc
+cd cmsc142
+cd /root/movies/horror
+cd ../..
+ls
+cp
+cp cmsc comsci1
+ls
+cp cmsc comsci2
+cp movies movies1
+cp movies movies2
+cp movies movie1
+cp movies move1
+ls
+ls *s*
+ls *s*
+ls
+ls *.*
+ls *1
+ls
+ls movies*
+ls move*
+ls *v*
+cd cmsc
+ls
+cd cmsc11
+ls
+> hello.cpp
+show hello.cpp
+>> hello.cpp
+show hello.cpp
+ls
+edit hello.cpp
+show hello.cpp
+> hello.cpp
+show hello.cpp
+cp hello.cpp one.cpp
+cp hello.cpp two.cpp
+cp hello.cpp ../one.cpp
+cp hello.cpp one.cpp
+ls
+cd ..
+ls
+rn one.cpp newone.cpp
+ls
+cd ..
+ls
+mv cmsc comsci
+ls
+cd comsci
+ls
+cd ..
+cd cmsc
